@@ -4,8 +4,6 @@
 
 A personal portfolio site built with React and Three.js.
 
-**[View live site →](https://kevinmathew247.github.io/3D-Portfolio/)**
-
 </div>
 
 ## Tech Stack
